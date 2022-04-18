@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Yes.0f24f256-bef9-11ec-a095-f0189802c344.jpg</filename>
+	<path>/Users/kesharwani.prashant/Files/Real-Time-Sign-Language-Detection/Tensorflow/workspace/images/collectedimages/Yes.0f24f256-bef9-11ec-a095-f0189802c344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>342</ymin>
+			<xmax>462</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

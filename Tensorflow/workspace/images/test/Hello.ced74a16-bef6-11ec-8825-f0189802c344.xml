@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hello.ced74a16-bef6-11ec-8825-f0189802c344.jpg</filename>
+	<path>/Users/kesharwani.prashant/Files/Real-Time-Sign-Language-Detection/Tensorflow/workspace/images/collectedimages/Hello.ced74a16-bef6-11ec-8825-f0189802c344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>373</ymin>
+			<xmax>880</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>No.86c01bce-bef9-11ec-adf5-f0189802c344.jpg</filename>
+	<path>/Users/kesharwani.prashant/Files/Real-Time-Sign-Language-Detection/Tensorflow/workspace/images/collectedimages/No.86c01bce-bef9-11ec-adf5-f0189802c344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>385</ymin>
+			<xmax>666</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

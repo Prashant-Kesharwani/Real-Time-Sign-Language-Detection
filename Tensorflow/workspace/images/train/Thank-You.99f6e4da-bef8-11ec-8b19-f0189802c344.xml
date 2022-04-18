@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Thank-You.99f6e4da-bef8-11ec-8b19-f0189802c344.jpg</filename>
+	<path>/Users/kesharwani.prashant/Files/Real-Time-Sign-Language-Detection/Tensorflow/workspace/images/collectedimages/Thank-You.99f6e4da-bef8-11ec-8b19-f0189802c344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>388</ymin>
+			<xmax>779</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>
